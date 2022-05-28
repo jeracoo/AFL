@@ -2,7 +2,6 @@
 import java.io.*;
 import java.util.Scanner;
 
-//code monkey//
 
 public class AFLPlayer extends AFLTeamMember {
         private int number;

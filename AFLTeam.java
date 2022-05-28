@@ -1,7 +1,7 @@
 //AFLTeam.java//
 import java.io.*;
 import java.util.Scanner;
-//code monkey//
+
 
 public class AFLTeam {
         private String name;
