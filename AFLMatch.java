@@ -2,6 +2,7 @@
 //Why the frick isn't it working//
 import java.io.*;
 import java.util.Scanner;
+//code monkey//
 
 public class AFLMatch {
         private AFLTeam homeTeam;
